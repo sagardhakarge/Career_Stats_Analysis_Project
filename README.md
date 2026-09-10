@@ -42,4 +42,4 @@ To build this interactive report, I used the following Power BI features:
 1.  **Download Power BI Desktop:** 
 2.  **Clone or Download this repository:**
     ```bash
-    git clone https://github.com/sagardhakarge/Career_Stats_Analysis_Project/
+    https://github.com/sagardhakarge/Career_Stats_Analysis_Project/
